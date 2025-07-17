@@ -13,7 +13,7 @@ const Logo: React.FC<LogoProps> = ({ onClick }) => (
     onClick={onClick}
   >
     <img 
-      src="/lovable-uploads/b24ee520-7478-4b85-b844-07dbec409cf5.png" 
+      src="/lovable-uploads/b24ee520-7478-4b85-b844-07dbec409cf5.pn" 
       alt="i-numera logo"
       className="h-12 w-auto" 
       loading="eager"
